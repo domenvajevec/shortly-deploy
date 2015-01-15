@@ -28,3 +28,5 @@ results
 
 npm-debug.log
 node_modules
+
+# mongodb://MongoLab-2:8K1_dPmECMmZUsnLd.7jw7rwrSMJsvi0FMWszsPEaPQ-@ds050087.mongolab.com:50087/MongoLab-2
